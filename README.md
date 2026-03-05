@@ -146,6 +146,7 @@ Buka file **HTML report** untuk melihat:
 ---
 # Repository Git
 Project ini disimpan pada repository GitHub public.
+https://github.com/fauzihaidar/automation-saucedemo
 
 
 
