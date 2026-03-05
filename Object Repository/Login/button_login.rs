@@ -1,0 +1,10 @@
+<WebElementEntity>
+   <description></description>
+   <name>button_login</name>
+   <selectorCollection>
+      <entry>
+         <key>ID</key>
+         <value>login-button</value>
+      </entry>
+   </selectorCollection>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+<WebElementEntity>
+   <description></description>
+   <name>error_message</name>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[contains(@data-test,'error')]</value>
+      </entry>
+   </selectorCollection>
+</WebElementEntity>

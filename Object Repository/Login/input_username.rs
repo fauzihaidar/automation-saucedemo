@@ -1,0 +1,10 @@
+<WebElementEntity>
+   <description></description>
+   <name>input_username</name>
+   <selectorCollection>
+      <entry>
+         <key>ID</key>
+         <value>user-name</value>
+      </entry>
+   </selectorCollection>
+</WebElementEntity>

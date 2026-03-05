@@ -1,0 +1,10 @@
+<WebElementEntity>
+   <description></description>
+   <name>label_products</name>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Products']</value>
+      </entry>
+   </selectorCollection>
+</WebElementEntity>

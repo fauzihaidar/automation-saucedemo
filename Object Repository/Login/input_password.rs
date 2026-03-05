@@ -1,0 +1,10 @@
+<WebElementEntity>
+   <description></description>
+   <name>input_password</name>
+   <selectorCollection>
+      <entry>
+         <key>ID</key>
+         <value>password</value>
+      </entry>
+   </selectorCollection>
+</WebElementEntity>
